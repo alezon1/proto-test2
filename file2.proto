@@ -1,3 +1,3 @@
 syntax="proto3";
 
-package "github.alezon1.proto_test2";
+package github.alezon1.proto_test2;
